@@ -71,8 +71,9 @@
 
 <p align="center">
   ![](https://github-readme-stats.vercel.app/api?username=Wijdaneh&theme=dark&show_icons=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Wijdaneh&theme=dark)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wijdaneh&theme=dark&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wijdaneh&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wijdaneh&theme=dark&layout=compact)
+
 </p>
 
 ---
