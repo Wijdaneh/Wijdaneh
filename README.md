@@ -67,20 +67,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Wijdaneh&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wijdaneh&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wijdaneh&theme=dark&layout=compact)
-
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 <p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+> "Your brain is a 3D printer for your reality — what you think today, you build tomorrow."  
+> — Wijdane Hachani
 </p>
 
 <p align="center">
